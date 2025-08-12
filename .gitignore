@@ -1,0 +1,25 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Visual Studio / MonoDevelop generated files
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+
+# Others
+*.pidb
+*.booproj
+*.svd
+
+# Auto-generated Unity files
+sysinfo.txt
+
+# Crashlytics generated files
+crashlytics-build.properties
+./.git/objects/pack/pack-f4ab080273bb476842a78b27d4088e58d77f89ef.pack
